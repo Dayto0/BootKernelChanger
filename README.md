@@ -12,7 +12,7 @@
 
 ---
 ## Скриншоты
-![Главное окно](https://imgur.com/a/I9XgHNh)  
+![Главное окно](https://i.imgur.com/xToHaRd_d.webp?maxwidth=760&fidelity=grand)  
 ---
 
 ## Использование
